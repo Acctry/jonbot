@@ -1,7 +1,7 @@
 {
   "users": {
     "6283832316538@s.whatsapp.net": {
-      "exp": 1665,
+      "exp": 1699,
       "diamond": 10,
       "lastclaim": 0,
       "registered": false,
@@ -536,10 +536,10 @@
   },
   "stats": {
     "main-menu.js": {
-      "total": 29,
-      "success": 29,
-      "last": 1714355739234,
-      "lastSuccess": 1714355739234
+      "total": 32,
+      "success": 32,
+      "last": 1714358907068,
+      "lastSuccess": 1714358907068
     },
     "fun-apakah.js": {
       "total": 5,
@@ -566,10 +566,10 @@
       "lastSuccess": 1714353562526
     },
     "main-botInfo.js": {
-      "total": 5,
-      "success": 5,
-      "last": 1714355117121,
-      "lastSuccess": 1714355117121
+      "total": 6,
+      "success": 6,
+      "last": 1714358884968,
+      "lastSuccess": 1714358884968
     },
     "list-pubg.js": {
       "total": 5,

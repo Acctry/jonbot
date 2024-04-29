@@ -2,26 +2,26 @@ import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
-// global.owner = [
-//   ['6285174306183', 'NANS OFFC', true],
-//   ['6285880029379']
-// ] // 
+global.owner = [
+  ['6285174306183', 'NANS OFFC', true],
+  ['6285880029379']
+] // 
 
-// global.mods = ['573125484672'] 
-// global.prems = ['50489079501', '5219631769130', '573125484672']
-// global.APIs = { // API Prefix
-//   // name: 'https://website'
-//   xteam: 'https://api.xteam.xyz', 
-//   nrtm: 'https://fg-nrtm.ddns.net',
-//   bg: 'http://bochil.ddns.net',
-//   fgmods: 'https://api-fgmods.ddns.net'
-// }
-// global.APIKeys = { // APIKey Here
-//   // 'https://website': 'apikey'
-//   'https://api.xteam.xyz': 'd90a9e986e18778b',
-//   'https://zenzapis.xyz': '675e34de8a', 
-//   'https://api-fgmods.ddns.net': 'TU-APIKEY' //Regístrese en https://api-fgmods.ddns.net/
-// }
+global.mods = ['573125484672'] 
+global.prems = ['50489079501', '5219631769130', '573125484672']
+global.APIs = { // API Prefix
+  // name: 'https://website'
+  xteam: 'https://api.xteam.xyz', 
+  nrtm: 'https://fg-nrtm.ddns.net',
+  bg: 'http://bochil.ddns.net',
+  fgmods: 'https://api-fgmods.ddns.net'
+}
+global.APIKeys = { // APIKey Here
+  // 'https://website': 'apikey'
+  'https://api.xteam.xyz': 'd90a9e986e18778b',
+  'https://zenzapis.xyz': '675e34de8a', 
+  'https://api-fgmods.ddns.net': 'TU-APIKEY' //Regístrese en https://api-fgmods.ddns.net/
+}
 
 // Sticker WM
 global.packname = 'Dinosayus' 
