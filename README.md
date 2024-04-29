@@ -46,10 +46,8 @@ En caso de duda, antes de instalar dylux-bot, pruebe el bot aquí
 $ pkg upgrade -y && pkg update -y
 $ pkg install git -y
 $ pkg install nodejs -y
-$ pkg install ffmpeg -y
-$ pkg install imagemagick -y
 $ git clone https://github.com/Acctry/jonbot.git
-$ cd dylux-fg
+$ cd jonbot
 $ npm i 
 $ npm start
 ```
