@@ -1,14 +1,34 @@
 const payment = `
-💰ℙ𝔼𝕄𝔹𝔸𝕐𝔸ℝ𝔸ℕ
+MENU PEMBAYARAN�
+WIJAYA STORE
 
-💳BCA: 
-🧡SHOPEE PAY: 
-💙DANA: 
-💛SEABANK: 
-🤍BRI: 
-🩵MANDIRI: 
+PEMBAYARAN VIA BANK: 
+🏧MANDIRI  : 1830004722137
+🏧BRI  : 528201034494539
+(ASIMA ANAVARO BR MARBUN BJR)
 
-📌𝔸𝕋𝔸𝕊 ℕ𝔸𝕄𝔸: JOHNY WIJAYA
+SEMUA BANK ATAS NAMA
+(JHON HAD WIJAYA)
+
+‼️KECUALI BRI‼️
+
+PEMBAYARAN VIA DANA
+📱DANA 2 : 08887245861
+( JHON HAD WIJAYA )
+• Transfer dari dana ke dana +Rp100
+• Transfer dari bank ke dana +Rp500
+
+📱GOPAY 1 : 08887245861
+( JHON HAD WIJAYA )
+
+📱SHOPEEPAY 1 : 08887245861
+( JHON HAD WIJAYA )
+(VIA BANK KE SHOPE WAJIB +1K)
+
+▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+Noted :
+💸TRANSFER HANYA KE PAYMENT YANG TERTERA DI ATAS YA
+Order tidak akan di proses apabila tidak menyertakan bukti transfer. Terimakasih
 `
 function handler(m) {
     m.reply(payment)
